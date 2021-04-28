@@ -1,2 +1,0 @@
-# CLP
-CustomLapelPins.com
